@@ -1,0 +1,2 @@
+use midtermbasketball;
+show tables;
